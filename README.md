@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bernardo</h1>
-<h3 align="center">A Beginner Unity Developer from Brazil that loves programming</h3>
+<h3 align="center">A beginner developer from Brazil that loves programming</h3>
 
-- 🔭 I’m currently working on an indie game called [they cAN'T see Us](https://bolamanx.itch.io/they-cant-see-us)
+- 🔭 My last project was [they cAN'T see Us](https://bolamanx.itch.io/they-cant-see-us)
 
-- 🌱 I’m currently learning **Data analysis with Python using pandas, matplotlib and numpy modules**
+- 🌱 I’m currently learning **HTML, CSS and Javascript**
 
 - 👨‍💻 Some of my projects are available at [https://bernardoperona8.wixsite.com/deusnardo](https://bernardoperona8.wixsite.com/deusnardo)
 
